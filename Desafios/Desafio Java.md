@@ -1,6 +1,10 @@
+Desafio em Java, proposto na matéria de Fundamentos de Ciências Exatas, em união com os conhecimentos obtidos na matéria de Construção de Algoritmos.
+Desenvolva um programa em Java que informe se um ano é bissexto ou não. 
+
 import java.util.Scanner; 
 class Main {  
   public static void main(String args[]) { 
+    
     int ano; 
     Scanner ler = new Scanner(System.in);
 
